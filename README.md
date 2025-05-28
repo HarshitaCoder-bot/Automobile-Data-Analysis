@@ -32,7 +32,7 @@ The dataset includes the following features:
 ## 📈 Visual Insights
 
 ### 🔹 1. Car Price by Body Style
-![Car Price by Body Style]()
+![Car Price by Body Style](https://github.com/HarshitaCoder-bot/Automobile-Data-Analysis/blob/02a9f8b797c693cb5d5fccebbb9b4785d2c51faa/price_by_bodystyle.png)
 
 ---
 
