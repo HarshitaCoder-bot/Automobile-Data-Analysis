@@ -42,7 +42,7 @@ The dataset includes the following features:
 ---
 
 ### 🔹 3. Feature Correlation Heatmap
-![Feature Correlation]()
+![Feature Correlation](https://github.com/HarshitaCoder-bot/Automobile-Data-Analysis/blob/69b836f58fd49933620558e5aea35cdccf25eb28/correlation_heatmap.png)
 
 ---
 
