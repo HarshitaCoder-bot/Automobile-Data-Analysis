@@ -37,7 +37,7 @@ The dataset includes the following features:
 ---
 
 ### 🔹 2. Horsepower vs Price
-![Horsepower vs Price]()
+![Horsepower vs Price](https://github.com/HarshitaCoder-bot/Automobile-Data-Analysis/blob/8ae482b13bc444568ac982dde8368f7738d76f13/horsepower_vs_price.png)
 
 ---
 
