@@ -32,17 +32,17 @@ The dataset includes the following features:
 ## 📈 Visual Insights
 
 ### 🔹 1. Car Price by Body Style
-![Car Price by Body Style](images/price_by_bodystyle.png)
+![Car Price by Body Style]()
 
 ---
 
 ### 🔹 2. Horsepower vs Price
-![Horsepower vs Price](images/horsepower_vs_price.png)
+![Horsepower vs Price]()
 
 ---
 
 ### 🔹 3. Feature Correlation Heatmap
-![Feature Correlation](images/correlation_heatmap.png)
+![Feature Correlation]()
 
 ---
 
